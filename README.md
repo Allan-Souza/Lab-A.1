@@ -3,6 +3,8 @@
 ## Descrição do Projeto:
 A Academic Store é um projeto de um marketplace que visa auxiliar alunos de universidades a vender e comprar itens que são úteis para sua vida acadêmica. 
 
+## Principais pontos
+
 1. Objetivo:
 Nosso foco é trazer produtos que já foram utilizados por algum aluno e que já não tem mais serventia para ele, mas que pode ser útil para outro. Desenvolvendo a área acadêmica e facilitando novas relações entre estudantes de diferentes áreas.
 
@@ -20,4 +22,4 @@ Nosso foco é trazer produtos que já foram utilizados por algum aluno e que já
 
 
 6. Segurança e Privacidade: 
-Serão tomadas medidas de segurança para proteção dos dados dos usuários, como informações pessoais e formas de pagamento.
+	Serão tomadas medidas de segurança para proteção dos dados dos usuários, como informações pessoais e formas de pagamento.
