@@ -1,6 +1,6 @@
 # Academic Store - Facilitando seu conhecimento.
 
-##Descrição do Projeto:
+## Descrição do Projeto:
 A Academic Store é um projeto de um marketplace que visa auxiliar alunos de universidades a vender e comprar itens que são úteis para sua vida acadêmica. 
 
 1. Objetivo:
